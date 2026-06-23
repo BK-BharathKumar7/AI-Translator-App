@@ -38,7 +38,7 @@ The application provides a simple and interactive interface for language transla
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/AI-Translator-App.git
+git clone https://github.com/BK-BharathKumar7/AI-Translator-App.git
 
 Navigate to the project folder:
 
